@@ -6,7 +6,7 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.resolve('dist'),
-    filename: 'aaa.js'
+    filename: 'bundle.js'
   },
   plugins: [
     new htmlWebpackPlugin({

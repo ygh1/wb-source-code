@@ -1,2 +1,2 @@
-var a = 'login'
-module.exports = a
+export default 123
+export const login = 'login export'

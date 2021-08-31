@@ -1,5 +1,4 @@
-import a from './main.js'
+import a, {login} from './login.js'
 
 console.log('index.js run')
-console.log(a)
-module.exports = 'index'
+console.log(a, login)
