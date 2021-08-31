@@ -1,4 +1,5 @@
 import a from './main.js'
 
-console.log(1 + a)
-module.exports = '测试'
+console.log('index.js run')
+console.log(a)
+module.exports = 'index'

@@ -1,2 +1,2 @@
-var a = 123
+var a = 'login'
 module.exports = a
