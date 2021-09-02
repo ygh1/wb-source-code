@@ -1,4 +1,5 @@
-import a, {login} from './login.js'
+import login from './login.js'
+import register from './register.js'
 
 console.log('index.js run')
-console.log(a, login)
+console.log(login)
